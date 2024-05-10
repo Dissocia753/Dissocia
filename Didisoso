@@ -1,0 +1,7 @@
+эхо "# Dissocia" >> README.md
+git init
+git добавить README.md
+git commit -m "первый коммит"
+ветвь git -M главная
+git удаленного добавления происхождения https://github.com/Dissocia753/Dissocia.git
+git push -u начало основного
